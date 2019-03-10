@@ -38,7 +38,7 @@ Please download Virtualbox installer and Ubuntu 18.04 LTS image from the followi
 
 **Virtualbox Installer:** https://www.virtualbox.org/wiki/Downloads
 
-**Ubuntu 18.04 LTS: **https://www.ubuntu.com/download/desktop
+**Ubuntu 18.04 LTS:** https://www.ubuntu.com/download/desktop
 
 
 
